@@ -40,7 +40,5 @@ It is designed to help transform archived or raw information into structured ins
 - Fork the repo, create a feature branch, and submit a pull request.
 - Please include a brief description of changes and any relevant notes about configuration or dependencies.
 
-### License
-Specify your preferred license here (e.g., MIT, Apache 2.0) and add a `LICENSE` file if needed.
 
 
