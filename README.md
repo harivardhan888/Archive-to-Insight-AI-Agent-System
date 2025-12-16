@@ -1,15 +1,15 @@
 ## Archive-to-Insight-AI-Agent-System
 
-This repository contains an AI-powered multi-agent collaboration system built in Python (see `multi_agent_collaboration_system.ipynb`).  
+Archive-to-Insight-AI-Agent-System is an AI-powered multi-agent collaboration system built in Python (see `main.ipynb`).  
 It is designed to help transform archived or raw information into structured insights by coordinating multiple specialized agents.
 
 ### Features
 - **Multi-agent orchestration**: Coordinate multiple agents with different roles (e.g., retrieval, analysis, summarization).
-- **Notebook-based workflow**: Core logic and experimentation live in `multi_agent_collaboration_system.ipynb`.
+- **Notebook-based workflow**: Core logic and experimentation live in `main.ipynb`.
 - **Extensible design**: Easy to plug in new tools, models, or agent roles as your use-cases grow.
 
 ### Project Structure
-- **`multi_agent_collaboration_system.ipynb`**: Main notebook that defines and runs the multi-agent system.
+- **`main.ipynb`**: Main notebook that defines and runs the multi-agent system.
 - **`requirements.txt`**: Python package dependencies needed to run the notebook.
 - **`README.md`**: Project overview and setup instructions.
 
@@ -28,7 +28,7 @@ It is designed to help transform archived or raw information into structured ins
    ```
 
 3. **Open the notebook**:
-   - Use Jupyter Lab, Jupyter Notebook, or VS Code to open `multi_agent_collaboration_system.ipynb`.
+   - Use Jupyter Lab, Jupyter Notebook, or VS Code to open `main.ipynb`.
    - Run the cells in order, adjusting configuration (e.g., API keys, paths) as needed.
 
 ### Running and Customizing
